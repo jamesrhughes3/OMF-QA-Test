@@ -1,6 +1,6 @@
 #OneMain Financial - QA Assessment
 This submission contains automation for the two stories described in the assessment received on 10/28/20.
-
+You may need to install the associated gems via 'bundle install' before you can execute the tests.
 Submitted by James R. Hughes on 10/29.
 
 ##Personal Notes
